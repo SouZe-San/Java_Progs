@@ -1,0 +1,8 @@
+4type  of inheritance ->
+1. Multi level inheritance
+2. 
+
+Constructor Helps to create an object of  class
+if we have name but don't have body don't return any error
+It's doesn't have any return type
+ 

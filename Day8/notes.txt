@@ -1,0 +1,17 @@
+! STATIC
+Static things are print first than any things
+What are can be static ---> Something that is frequently required to call/access their use "Static" key word
+which thing need frequently -- and need to reload one time -- it will perform first EVEN first of constructor
+variables, method, main method, static block
+
+* Sequence of loading-------->
+    Static variable   
+    Static block 
+    Static main method  
+    Static user method
+
+
+! FINAL
+It prevent you to override/modify the variable or method
+it Throw error at "compile time" ---
+if a class use final Then that class cant be inheritance
