@@ -18,7 +18,7 @@ class Problems {
             if (!primeCheck(i)) {
                 continue;
             }
-            System.out.println(i);
+            System.out.print(i + " ");
         }
     }
 }
@@ -32,10 +32,10 @@ public class PrimeNumber {
         System.out.print("Enter the number that want to check it prime or not >>>: ");
         int number = sc.nextInt();
         sc.close();
-        System.out.println("Is " + number + ", prime : " + prime.primeCheck(number));
+        System.out.println("Is" + number + " a prime Number? \n Answer:: " + prime.primeCheck(number));
 
         // PROBLEM 02 : ---->
         System.out.println("\n Prime Number between 50 to 1150 \n");
-        // prime.primePrint();
+        prime.primePrint();
     }
 }

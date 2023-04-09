@@ -1,0 +1,55 @@
+
+! Condition for OVERLOADING :: --<> Compile time Polymorphism (static Polymorphism)
+ 1.Name Same But arguments vary in number, type, sequence,,,, and Also if they differ by 
+
+
+ :::firstly, space of data for a method  Allocate in A memory address...and when the next method also Allocate in same memory space and remove the space the previous one..
+
+
+ >>>> Formal arguments :  when a method create then the methods are Formal arguments (int a, float r)
+ >>>> Actual arguments : when a method  call that are Actual arguments (10, 21,21)
+
+exception run time error occurs 
+jvm is a part of interpreter 
+byte code is not an executable file not in windows at least 
+thats why you need jvm to execute 
+there's a program called bytecode loader .. that is not a part od jvm 
+there's another program named bytecode verifier 
+and then it passes the byte code to jvm to finally execute it ... jvm will generate the.......
+jvm is inside the jre 
+.class file converts the source code into byte code
+java does not generate any kind of output executable file 
+what are we learning today is exception handling 
+there are three cases where exception handling is mandatory 
+1. file handling 
+2. dealing with threads
+3. work with database 
+
+try{
+
+}catch( Exception e){
+
+
+}
+
+
+!Throw ::
+ 
+ it use the to create the user define exception
+
+
+from JDK 8, One catch block can handle multiple exception
+try catch 
+
+
+
+try{
+
+}catch( Exception e){
+
+
+}finally{
+    System.out.print(" HEki ")
+}
+
+finally : generally block Define for close all resource

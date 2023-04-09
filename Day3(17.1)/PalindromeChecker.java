@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 
+// 4. WAP that accepts 5-character inputs into an array and checks if it is a palindrome.
 class CheckClass {
     char storeCh;
     String newString = "";
@@ -18,7 +19,7 @@ class CheckClass {
     }
 }
 
-public class PalindronChaker {
+public class PalindromeChecker {
     public static void main(String[] args) {
         System.out.println("Give String or Integer for checking Palindrome");
         Scanner sc = new Scanner(System.in);
@@ -27,6 +28,5 @@ public class PalindronChaker {
         sc.close();
         CheckClass palCheck = new CheckClass();
         palCheck.check(input_String);
-
     }
 }

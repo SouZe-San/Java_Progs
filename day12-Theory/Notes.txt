@@ -1,0 +1,22 @@
+AutoCloseable interface --- try with resource
+
+throws exception checked exception
+
+
+
+For binary file handling the class name end with 'Stream'
+
+
+
+
+! Inner class
+
+class inside of another class
+
+it use when we have to give access of privet file to an important people or administrator
+
+^Type :
+1. regular Inner
+2. static Inner
+3. Method-local Inner
+4. Anonymous Inner Classes

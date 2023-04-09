@@ -1,0 +1,22 @@
+! TYPECASTING :::-
+
+    *Normal: Small into Larger  :: char x='10' , int y = x 
+    *Explicits type Casting:: try to Large into small .. (int)X
+
+@Object TYPECASTING:::
+
+    class object different by hierarchy...
+
+
+
+In Uniq Processor system Any One component can perform one task in a one time
+
+
+fetch from register -> decoder(check logic/arithmetic/Normal) -> ALU -> Control unit -> Register 
+
+process is a heavy weight\
+
+
+CGI - common getway 
+
+Disadvantage/Advantage of Async and Synchronous
